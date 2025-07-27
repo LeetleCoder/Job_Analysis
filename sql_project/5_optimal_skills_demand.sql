@@ -1,3 +1,10 @@
+/*
+**What are the most optimal skills to learn (aka it’s in high demand and a high-paying skill) for a data analyst?** 
+
+- Identify skills in high demand and associated with high average salaries for Data Analyst roles
+- Concentrates on remote positions with specified salaries
+*/
+
 SELECT
     skills_dim.skill_id,
     skills_dim.skills,
