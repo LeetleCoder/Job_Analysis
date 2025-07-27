@@ -1,3 +1,10 @@
+/*
+**Question: What are the most in-demand skills for data analysts?**
+
+- Identify the top 10 in-demand skills for a data analyst.
+- Focus on all job postings.
+*/
+
 WITH remote_job_skills AS (
     SELECT
         skill_id,
